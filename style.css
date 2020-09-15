@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    text-shadow: 1px 1px rgb(231, 200, 205);
+    text-decoration: darkkhaki;
+    text-align-last: auto;
+}
+h2{
+    margin-top: auto;
+    text-align: center;
+    color: white;
+}
+
+#kda-button{
+    border: none;
+    color: white;
+    background-color: gray;
+    background: none;
+    text-shadow: 1px 1px rgb(231, 200, 205);
+}
+
+button:hover{
+    cursor: pointer;
+    font-size: 100.5%;
+}
+
+h2:hover{
+    color: rgb(172, 137, 137);
+}
+
+#content{
+    color: honeydew;
+}
+
+#menu{
+    color: honeydew;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #324578;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: tomato;
+}
+
+
+
+
+
